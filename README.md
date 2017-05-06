@@ -15,6 +15,7 @@ Place the input fasta file and parameter config file in local machine.
 console arguments- i. input fasta file path ii. 0: global 1: local iii. parameter file path
 
 Run file Main.cpp
+
 /////////////////////////////////////////////////////////////////////////////
 
 Cell Structure: Cell.h
