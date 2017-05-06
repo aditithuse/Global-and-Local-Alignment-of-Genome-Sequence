@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\aditi\documents\visual studio 2017\projects\globalalignmentlocalalignment\globalalignmentlocalalignment\cell.h(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\aditi\documents\visual studio 2017\projects\globalalignmentlocalalignment\globalalignmentlocalalignment\cell.h(22): warning C4018: '<': signed/unsigned mismatch
+  GlobalAlignmentLocalAlignment.vcxproj -> C:\Users\Aditi\Documents\Visual Studio 2017\Projects\GlobalAlignmentLocalAlignment\Debug\GlobalAlignmentLocalAlignment.exe
+  GlobalAlignmentLocalAlignment.vcxproj -> C:\Users\Aditi\Documents\Visual Studio 2017\Projects\GlobalAlignmentLocalAlignment\Debug\GlobalAlignmentLocalAlignment.pdb (Partial PDB)
