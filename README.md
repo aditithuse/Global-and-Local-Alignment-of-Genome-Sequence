@@ -1,6 +1,7 @@
 # Global-and-Local-Alignment-of-Genome-Sequence
 
 ======================================================================== 
+
 CONSOLE APPLICATION 
 
 This program is implemented for the global and local sequence alignment for two strings with the implementation of affine gap penalty. This program is implemented in CPP using visual studio.
